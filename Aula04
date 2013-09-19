@@ -1,0 +1,28 @@
+Aula - 04
+Data: 21 agosto 2013
+
+Criação de Objetos
+
+    heap: área criados os objetos.
+    obs: ojetos não tem nome, mas podem ser regerenciados por variáveis de
+    regerência ( todas aquelas cujos tipos é uma classe).
+    
+para criacão é usada a palavra - chave "new" seguida do nome da classe e 
+parênteses.
+
+Um objeto pode ser passado como argumento desde que apra recebê-lo exista um 
+parâmento.
+
+Exemplo:
+
+
+obs:
+Posicão
+    Local       (Dentro do método|temporaria)
+    Instância   (Fora do método|objeto)
+    classe      (stati|fora do método|estática)
+
+Tipo
+    Primitivo   (o tipo é primitivo)
+    Referência  (o tipo é uma classe)
+    
